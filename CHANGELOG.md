@@ -1,6 +1,11 @@
 Changelog
 =========
 
+## [v0.0.27] - 2025-04-08
+
+- Dependency corrections and cleanup
+- Include "base_deps" as required installation dependencies
+
 ## [v0.0.26] - 2024-05-24
 
 - Cast floats to decimal.Decimal for dynamodb put
